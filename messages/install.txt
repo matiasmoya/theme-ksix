@@ -1,0 +1,14 @@
+
+Welcome to Afterglow Theme
+
+
+To activate the theme, add or replace your current theme settings with the code below.
+
+
+Settings for Afterglow
+{
+    "theme": "Ksix.sublime-theme",
+    "color_scheme": "Packages/Theme - Ksix/Ksix.tmTheme"
+}
+
+*** IMPORTANT - Make sure to restart Sublime after installing and activating Afterglow ***
