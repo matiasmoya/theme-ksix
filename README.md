@@ -6,6 +6,10 @@ This is a modification of Afterglow theme for sublime text 3 with a customized c
 
 ![Ksix](Screenshots/preview.png)
 
+#### Color scheme preview
+
+![Ksix Color Scheme](Screenshots/colorscheme.png)
+
 ## Installation
 
 ### Package Control
