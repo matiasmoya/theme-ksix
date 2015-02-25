@@ -4,7 +4,7 @@ This is a modification of [Afterglow theme](https://github.com/YabataDesign/afte
 
 #### Theme Preview
 
-![Ksix](Screenshots/preview.png)
+![Ksix](Screenshots/preview_complete.png)
 
 #### Color scheme preview
 
