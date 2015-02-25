@@ -778,10 +778,10 @@
     // Text input field item
     {
         "class": "text_line_control",
-        "layer0.texture": "Theme - Soda/Soda Dark/text-field.png",
-        "layer0.opacity": 1.0,
-        "layer0.inner_margin": [4, 5, 4, 3],
-        "content_margin": [3, 3, 6, 3]
+        // "layer0.texture": "",
+        "layer0.tint": [14, 14, 18], // -01
+        "layer0.opacity": 1,
+        "content_margin": 3
     },
 //
 // PANEL BACKGROUNDS
