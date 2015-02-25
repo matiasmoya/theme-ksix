@@ -2,6 +2,10 @@
 
 This is a modification of Afterglow theme for sublime text 3 with a customized color scheme based on Monokai Flatland.
 
+#### Theme Preview
+
+![Ksix](Screenshots/preview.png)
+
 ## Installation
 
 ### Package Control
