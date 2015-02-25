@@ -1,6 +1,6 @@
 # Ksix theme
 
-This is a modification of Afterglow theme for sublime text 3 with a customized color scheme based on Monokai Flatland.
+This is a modification of [Afterglow theme](https://github.com/YabataDesign/afterglow-theme) for sublime text 3 with a customized color scheme based on [Monokai Flatland](https://github.com/thinkpixellab/flatland).
 
 #### Theme Preview
 
