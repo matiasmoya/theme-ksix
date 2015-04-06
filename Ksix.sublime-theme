@@ -305,7 +305,7 @@
     {
         "class": "puck_control",
         "attributes": ["horizontal"],
-        "layer0.tint": [20, 20, 24], // 01
+        "layer0.tint": [44, 44, 48], // 01
         "layer0.inner_margin": [0,0],
         "content_margin": [12,6],
         "blur": false
@@ -778,8 +778,11 @@
     // Text input field item
     {
         "class": "text_line_control",
-        // "layer0.texture": "",
-        "layer0.tint": [14, 14, 18], // -01
+        "layer1.texture": "Theme - Ksix/Ksix/text-field.png",
+        "layer0.texture": "Theme - Ksix/Ksix/text-field.png",
+        "layer1.tint": [14, 14, 18],
+        "layer0.tint": [14, 14, 18],
+        "layer1.opacity": 1,
         "layer0.opacity": 1,
         "content_margin": 3
     },
